@@ -1,12 +1,15 @@
-# My First Project 
-
-Welcome to my first GitHub project! 
-
-## Description 
-
-This is a simple project to learn GitHub basics. 
-
-## Features 
-
-- Instructions for beginners.  
-- Easy-to-follow examples.
+# My First GitHub Project 
+ 
+Welcome to my GitHub project repository! 
+ 
+## About 
+ 
+This project is a practice exercise for learning GitHub basics. 
+ 
+## How to Contribute 
+ 
+- Fork the repository. 
+ 
+- Create a new branch for your feature. 
+ 
+- Submit a Pull Request with your changes.
